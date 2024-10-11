@@ -32,6 +32,7 @@ function App() {
             setOpacity(newOpacity) 
           }else{
             setOpacity(1)
+            
           }
       }
   }
